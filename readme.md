@@ -1,7 +1,7 @@
-## Livox Detection-simu V1.0: Trained on Simulated Data, Tested in the Real World [\[Livox Simu-dataset\]](https://livox-wiki-cn.readthedocs.io/zh_CN/latest/data_summary/dataset.html#id2)
+## Livox Detection-simu V1.0: Trained on Simulated Data, Tested in the Real World [\[Livox Simu-dataset\]](https://livox-wiki-en.readthedocs.io/en/latest/data_summary/dataset.html#livox-simu-dataset-v1-0-cn)
 ## Introduction
-Livox Detection-simu is a robust and real-time detection package trained on [Livox Simu-dataset](https://livox-wiki-cn.readthedocs.io/zh_CN/latest/data_summary/dataset.html#id2). It only uses 14k frames of simulated data for training, and performs effective detection in the real world. The inference time is about 50ms on 2080Ti for 200m*100m range detection.   
-We hope this project can help you make better use of [Livox Simu-dataset](https://livox-wiki-cn.readthedocs.io/zh_CN/latest/data_summary/dataset.html#id2). In order to improve the performance of the detector, data augmentation such as object insertion and background mix-up is necessary. 
+Livox Detection-simu is a robust and real-time detection package trained on [Livox Simu-dataset](https://livox-wiki-en.readthedocs.io/en/latest/data_summary/dataset.html#livox-simu-dataset-v1-0-cn). It only uses 14k frames of simulated data for training, and performs effective detection in the real world. The inference time is about 50ms on 2080Ti for 200m*100m range detection.   
+We hope this project can help you make better use of [Livox Simu-dataset](https://livox-wiki-en.readthedocs.io/en/latest/data_summary/dataset.html#livox-simu-dataset-v1-0-cn). In order to improve the performance of the detector, data augmentation such as object insertion and background mix-up is necessary. 
 
 ## Demo
 <div align="center"><img src="./res/demo1.gif" width=90% /></div>
